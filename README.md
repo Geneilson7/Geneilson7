@@ -25,8 +25,7 @@ Sou **Desenvolvedor de Software**, com foco em entregar soluções práticas, es
 
 ### 🎓 Formação
 
-- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**  
-- 📘 Cursando **Ciências Contábeis** — unindo tecnologia e gestão para entregar soluções inovadoras, completas e alinhadas às necessidades reais do mercado.
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** 
 
 ---
 
